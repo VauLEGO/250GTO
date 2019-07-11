@@ -22,8 +22,6 @@
 <b>Ferrari S.p.A. is an Italian sports car manufacturer based in Maranello, Italy.</b>
 <b>Neither LEGO nor Ferrari sponsor, authorize or endorse this site.</b>
 
-Terimakasih banyak kepada Ardhi Tomiarfi atas peminjaman kameranya.
-
 Tulisan ini terutama untuk <b>KEPERLUAN SENDIRI</b> ---berbasis 
 "<i>Google Sana, Google Sini, Coba Itu, Coba Ini, Lalu Tanya-tanyi</i>".
 Entah ini <b>PLAGIAT</b>, entah ini <b>RISET</b>, yang jelas tidak pernah ada klaim bahwa ini merupakan karya asli, 
